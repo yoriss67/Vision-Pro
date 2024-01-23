@@ -1,0 +1,107 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    height: 100vh;
+}
+
+.spline_container {
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.text_container {
+  color: #fff;
+  position: absolute;
+  top: 2.5%;
+  left: 2.5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: .5rem;
+  width: 13vw;
+
+  background-color: transparent;
+  border-radius: 10px;
+  -webkit-backdrop-filter: blur(35px);
+  backdrop-filter: blur(35px);
+  background-blend-mode: overlay;
+  padding: 1rem;
+
+}
+
+.click_search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.click_search img {
+  width: 100%;
+  scale: 1.2;
+
+}
+
+.arrows {
+  width: 12%;
+  margin: 0;
+  padding-left: .2rem;
+  opacity: .8;
+}
+
+.arrows.arrow1 {
+
+}
+
+.click_input {
+  display: flex;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+
+.click_input img {
+  width: 100%;
+}
+
+.arrows.arrow2 {
+
+}
+
+
+.click_high img {
+  width: 70%;
+    border-radius: 4px;
+}
+
+.arrows.arrow3 {
+
+}
+
+.click_microphone1 img {
+  width: 100%;
+  scale: 1.5;
+}
+
+.arrows.arrow4 {
+
+}
+
+.click_microphone2 img {
+  width: 100%;
+  scale: 1.5;
+
+}
+
+.arrows.arrow5 {
+
+}
+
+.click_arrow img {
+  width: 40%;
+  fill: #fff;
+}

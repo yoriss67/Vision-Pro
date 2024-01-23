@@ -1,0 +1,18 @@
+<svg width="44" height="45" viewBox="0 0 44 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="44" height="44" rx="22" transform="matrix(-1 0 0 1 44 0.785156)" fill="white" fill-opacity="0.06" style="mix-blend-mode:lighten"/>
+<rect width="44" height="44" rx="22" transform="matrix(-1 0 0 1 44 0.785156)" fill="#5E5E5E" fill-opacity="0.18" style="mix-blend-mode:color-dodge"/>
+<rect width="44" height="44" rx="22" transform="matrix(-1 0 0 1 44 0.785156)" fill="url(#paint0_radial_143_2400)"/>
+<rect width="44" height="44" rx="22" transform="matrix(-1 0 0 1 44 0.785156)" fill="url(#paint1_radial_143_2400)" style="mix-blend-mode:color-dodge"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.4 21.9074C14.4 25.5525 17.3549 28.5074 21 28.5074C22.7314 28.5074 24.3071 27.8407 25.4844 26.75C25.538 26.6211 25.6173 26.5003 25.7222 26.3954C25.8152 26.3024 25.9207 26.2296 26.0333 26.1768C27.0105 25.0259 27.6 23.5355 27.6 21.9074C27.6 18.2623 24.6451 15.3074 21 15.3074C17.3549 15.3074 14.4 18.2623 14.4 21.9074ZM28.0531 27.1707C29.1503 25.7029 29.8 23.881 29.8 21.9074C29.8 17.0473 25.8601 13.1074 21 13.1074C16.1399 13.1074 12.2 17.0473 12.2 21.9074C12.2 26.7675 16.1399 30.7074 21 30.7074C23.0935 30.7074 25.0162 29.9764 26.5268 28.7557L30.1222 32.3511C30.5518 32.7806 31.2482 32.7806 31.6778 32.3511C32.1074 31.9215 32.1074 31.225 31.6778 30.7954L28.0531 27.1707Z" fill="white"/>
+<rect width="7.92" height="7.92" rx="3.96" transform="matrix(-1 0 0 1 24.9609 17.7148)" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_143_2400" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22 44) rotate(-90) scale(72.2857 22)">
+<stop stop-color="white" stop-opacity="0.07"/>
+<stop offset="0.603261" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_143_2400" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22 44) rotate(-90) scale(60.1071 15.0135)">
+<stop stop-color="#5E5E5E" stop-opacity="0.14"/>
+<stop offset="0.738467" stop-color="#5E5E5E" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
