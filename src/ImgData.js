@@ -27,6 +27,11 @@ const ImgData = [
 },
 {
     id: 6,
+    img: "Open Arrow.svg",
+    className: "open-arrow",
+},
+{
+    id: 7,
     img: "Home.svg",
     className: "home",
 },

@@ -15,12 +15,12 @@ function App() {
       </div>
 
       <div className="text_container">
-        <p>Click me</p>
+        <p>Try searching the icons and click!</p>
         <div className="icons_container">
           {ImgData.map((item, index) => (
             <div key={item.id} className="icon_container">
               <img className={`img ${item.className}`} src={`${item.img}`} alt={`Icon ${index}`} />
-              {item.id !== 6 && (
+              {item.id !== 7 && (
                 <img className='arrow' src="Arrows/Arrow 1.png" alt="" />
               )}
             </div>
