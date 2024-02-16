@@ -15,7 +15,7 @@ function App() {
       </div>
 
       <div className="text_container">
-        <p>Try searching the icons and click!</p>
+        <p>Try searching <br /> the icons and click!</p>
         <div className="icons_container">
           {ImgData.map((item, index) => (
             <div key={item.id} className="icon_container">
